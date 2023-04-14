@@ -2,6 +2,7 @@
 *.tfstate*
 *.tfvars
 *.tfplan
+*.lock*
 
 # Arquivos gerados pelo Terraform
 /.terraform/
