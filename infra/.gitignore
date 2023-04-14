@@ -1,0 +1,10 @@
+# Arquivos de configuração do Terraform
+*.tfstate*
+*.tfvars
+*.tfplan
+
+# Arquivos gerados pelo Terraform
+/.terraform/
+
+# Arquivo provider.tf específico
+/provider.tf
